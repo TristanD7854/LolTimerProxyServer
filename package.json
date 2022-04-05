@@ -1,0 +1,29 @@
+{
+  "name": "loltimerproxyserver",
+  "version": "1.0.0",
+  "description": "Node proxy server for lol timer application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanD7854/LolTimerProxyServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanD7854/LolTimerProxyServer/issues"
+  },
+  "homepage": "https://github.com/TristanD7854/LolTimerProxyServer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "needle": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
