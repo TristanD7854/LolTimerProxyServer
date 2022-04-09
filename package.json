@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "lint-and-fix": "eslint . --ext .js --fix",
+    "prettier-format": "prettier --config .prettierrc \"src/**/*.js\" --write"
   },
   "repository": {
     "type": "git",
@@ -27,6 +29,10 @@
     "needle": "^3.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2"
   }
 }
