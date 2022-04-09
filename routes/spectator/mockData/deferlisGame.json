@@ -1,0 +1,327 @@
+{
+    "gameId": 5816113096,
+    "mapId": 11,
+    "gameMode": "CLASSIC",
+    "gameType": "MATCHED_GAME",
+    "gameQueueConfigId": 400,
+    "participants": [
+        {
+            "teamId": 100,
+            "spell1Id": 14,
+            "spell2Id": 4,
+            "championId": 63,
+            "profileIconId": 1453,
+            "summonerName": "Apex Zed",
+            "bot": false,
+            "summonerId": "FgHlRcNrf9767dQiwLFOhc42wRca9xoGWUUe28tfB9bcPrEoODElcBZPDg",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8229,
+                    8226,
+                    8210,
+                    8237,
+                    8463,
+                    8429,
+                    5007,
+                    5008,
+                    5002
+                ],
+                "perkStyle": 8200,
+                "perkSubStyle": 8400
+            }
+        },
+        {
+            "teamId": 100,
+            "spell1Id": 4,
+            "spell2Id": 14,
+            "championId": 62,
+            "profileIconId": 4568,
+            "summonerName": "Trusty Toplaner",
+            "bot": false,
+            "summonerId": "p4KQXggt3tJjYobbn-kdG0mZcRSsiDswxgvKwKvoT-puZmQ",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8010,
+                    9111,
+                    9105,
+                    8299,
+                    8304,
+                    8345,
+                    5005,
+                    5008,
+                    5002
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8300
+            }
+        },
+        {
+            "teamId": 100,
+            "spell1Id": 4,
+            "spell2Id": 3,
+            "championId": 222,
+            "profileIconId": 4965,
+            "summonerName": "Taliyeah",
+            "bot": false,
+            "summonerId": "Wl6qE078TzVGtcAgf4bLnOBJ6L9Td20h3W1k8dFkAfLDFys",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8008,
+                    8009,
+                    9103,
+                    8299,
+                    8429,
+                    8451,
+                    5005,
+                    5008,
+                    5001
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8400
+            }
+        },
+        {
+            "teamId": 100,
+            "spell1Id": 4,
+            "spell2Id": 3,
+            "championId": 221,
+            "profileIconId": 4286,
+            "summonerName": "Zeri Skill",
+            "bot": false,
+            "summonerId": "ckdjE_lgPopBXWlaQXw_HT4svN-1qp2AV0Np82bWnQEb5Aw",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8008,
+                    8009,
+                    9103,
+                    8014,
+                    8139,
+                    8134,
+                    5005,
+                    5008,
+                    5003
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8100
+            }
+        },
+        {
+            "teamId": 100,
+            "spell1Id": 11,
+            "spell2Id": 4,
+            "championId": 28,
+            "profileIconId": 7,
+            "summonerName": "Fullclear Freak",
+            "bot": false,
+            "summonerId": "QgZSjYX9A2pP302HssJP_q4Z-nfghChTJtj21yDxV2PScwz9RlkCqkTsAQ",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8112,
+                    8143,
+                    8138,
+                    8106,
+                    8304,
+                    8347,
+                    5008,
+                    5008,
+                    5001
+                ],
+                "perkStyle": 8100,
+                "perkSubStyle": 8300
+            }
+        },
+        {
+            "teamId": 200,
+            "spell1Id": 11,
+            "spell2Id": 4,
+            "championId": 56,
+            "profileIconId": 5010,
+            "summonerName": "tastyspider",
+            "bot": false,
+            "summonerId": "2lKEel64TRlnV1_KQDQjEgf_5xbedm9fPmiY2F8yM8i_gL0",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8010,
+                    9111,
+                    9104,
+                    8014,
+                    8138,
+                    8135,
+                    5005,
+                    5008,
+                    5002
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8100
+            }
+        },
+        {
+            "teamId": 200,
+            "spell1Id": 14,
+            "spell2Id": 4,
+            "championId": 55,
+            "profileIconId": 907,
+            "summonerName": "kvantum csirke",
+            "bot": false,
+            "summonerId": "PvhlhkiFbVotwoP5pOxejbmY1Tpr3Lw7xSmX12mHECE8ATnMOHDGaQTukg",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8010,
+                    9111,
+                    9105,
+                    8014,
+                    8143,
+                    8138,
+                    5005,
+                    5008,
+                    5002
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8100
+            }
+        },
+        {
+            "teamId": 200,
+            "spell1Id": 4,
+            "spell2Id": 12,
+            "championId": 10,
+            "profileIconId": 5271,
+            "summonerName": "KrazerK",
+            "bot": false,
+            "summonerId": "BwB0i9mGRO54GeMyykHgiB1oxxU2WDMMCrt-sYWilUUirevsOi3ZaqYRAg",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8008,
+                    9111,
+                    9104,
+                    8299,
+                    8473,
+                    8451,
+                    5005,
+                    5008,
+                    5002
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8400
+            }
+        },
+        {
+            "teamId": 200,
+            "spell1Id": 3,
+            "spell2Id": 4,
+            "championId": 888,
+            "profileIconId": 4568,
+            "summonerName": "Deferlis",
+            "bot": false,
+            "summonerId": "RCJk6taqtFd-n1dLZU1lYMCcufi-F139HNWm1wE-a2L6AI4",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8465,
+                    8463,
+                    8473,
+                    8451,
+                    8345,
+                    8347,
+                    5007,
+                    5002,
+                    5003
+                ],
+                "perkStyle": 8400,
+                "perkSubStyle": 8300
+            }
+        },
+        {
+            "teamId": 200,
+            "spell1Id": 4,
+            "spell2Id": 7,
+            "championId": 166,
+            "profileIconId": 3184,
+            "summonerName": "Crimson Demon",
+            "bot": false,
+            "summonerId": "h5fKsgxSRomRjhEYO0OX2aJgbtWV9ge3JRT8L62YhvMMPzw",
+            "gameCustomizationObjects": [],
+            "perks": {
+                "perkIds": [
+                    8005,
+                    8009,
+                    9103,
+                    8014,
+                    8139,
+                    8138,
+                    5005,
+                    5008,
+                    5002
+                ],
+                "perkStyle": 8000,
+                "perkSubStyle": 8100
+            }
+        }
+    ],
+    "observers": {
+        "encryptionKey": "VORUDBIFRsxMRWNzNpChJ5nhhcbw9ecU"
+    },
+    "platformId": "EUW1",
+    "bannedChampions": [
+        {
+            "championId": 92,
+            "teamId": 100,
+            "pickTurn": 1
+        },
+        {
+            "championId": 143,
+            "teamId": 100,
+            "pickTurn": 2
+        },
+        {
+            "championId": 107,
+            "teamId": 100,
+            "pickTurn": 3
+        },
+        {
+            "championId": 555,
+            "teamId": 100,
+            "pickTurn": 4
+        },
+        {
+            "championId": 45,
+            "teamId": 100,
+            "pickTurn": 5
+        },
+        {
+            "championId": 164,
+            "teamId": 200,
+            "pickTurn": 6
+        },
+        {
+            "championId": 104,
+            "teamId": 200,
+            "pickTurn": 7
+        },
+        {
+            "championId": 39,
+            "teamId": 200,
+            "pickTurn": 8
+        },
+        {
+            "championId": 432,
+            "teamId": 200,
+            "pickTurn": 9
+        },
+        {
+            "championId": 105,
+            "teamId": 200,
+            "pickTurn": 10
+        }
+    ],
+    "gameStartTime": 0,
+    "gameLength": 0
+}
