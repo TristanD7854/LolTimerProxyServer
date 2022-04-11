@@ -1,0 +1,1456 @@
+{
+    "activePlayer": {
+        "abilities": {
+            "E": {
+                "abilityLevel": 1,
+                "displayName": "Ruée vers l'or",
+                "id": "GravesMove",
+                "rawDescription": "GeneratedTip_Spell_GravesMove_Description",
+                "rawDisplayName": "GeneratedTip_Spell_GravesMove_DisplayName"
+            },
+            "Passive": {
+                "displayName": "Nouvelle destinée",
+                "id": "GravesPassive",
+                "rawDescription": "GeneratedTip_Passive_GravesPassive_Description",
+                "rawDisplayName": "GeneratedTip_Passive_GravesPassive_DisplayName"
+            },
+            "Q": {
+                "abilityLevel": 4,
+                "displayName": "Terminus",
+                "id": "GravesQLineSpell",
+                "rawDescription": "GeneratedTip_Spell_GravesQLineSpell_Description",
+                "rawDisplayName": "GeneratedTip_Spell_GravesQLineSpell_DisplayName"
+            },
+            "R": {
+                "abilityLevel": 1,
+                "displayName": "Dégâts collatéraux",
+                "id": "GravesChargeShot",
+                "rawDescription": "GeneratedTip_Spell_GravesChargeShot_Description",
+                "rawDisplayName": "GeneratedTip_Spell_GravesChargeShot_DisplayName"
+            },
+            "W": {
+                "abilityLevel": 1,
+                "displayName": "Écran de fumée",
+                "id": "GravesSmokeGrenade",
+                "rawDescription": "GeneratedTip_Spell_GravesSmokeGrenade_Description",
+                "rawDisplayName": "GeneratedTip_Spell_GravesSmokeGrenade_DisplayName"
+            }
+        },
+        "championStats": {
+            "abilityHaste": 0.0,
+            "abilityPower": 0.0,
+            "armor": 69.4729995727539,
+            "armorPenetrationFlat": 0.0,
+            "armorPenetrationPercent": 1.0,
+            "attackDamage": 138.1800079345703,
+            "attackRange": 425.0,
+            "attackSpeed": 0.5367252826690674,
+            "bonusArmorPenetrationPercent": 1.0,
+            "bonusMagicPenetrationPercent": 1.0,
+            "critChance": 0.0,
+            "critDamage": 175.0,
+            "currentHealth": 1040.739990234375,
+            "healShieldPower": 0.0,
+            "healthRegenRate": 2.2783000469207765,
+            "lifeSteal": 0.04800000041723251,
+            "magicLethality": 0.0,
+            "magicPenetrationFlat": 0.0,
+            "magicPenetrationPercent": 1.0,
+            "magicResist": 46.056251525878909,
+            "maxHealth": 1040.739990234375,
+            "moveSpeed": 385.0,
+            "omnivamp": 0.0,
+            "physicalLethality": 10.0,
+            "physicalVamp": 0.0,
+            "resourceMax": 518.800048828125,
+            "resourceRegenRate": 3.02018404006958,
+            "resourceType": "MANA",
+            "resourceValue": 306.1687316894531,
+            "spellVamp": 0.0,
+            "tenacity": 0.0
+        },
+        "currentGold": 1679.0430908203126,
+        "fullRunes": {
+            "generalRunes": [
+                {
+                    "displayName": "Jeu de jambes",
+                    "id": 8021,
+                    "rawDescription": "perk_tooltip_FleetFootwork",
+                    "rawDisplayName": "perk_displayname_FleetFootwork"
+                },
+                {
+                    "displayName": "Présence d'esprit",
+                    "id": 8009,
+                    "rawDescription": "perk_tooltip_PresenceOfMind",
+                    "rawDisplayName": "perk_displayname_PresenceOfMind"
+                },
+                {
+                    "displayName": "Légende : sangsue",
+                    "id": 9103,
+                    "rawDescription": "perk_tooltip_9103",
+                    "rawDisplayName": "perk_displayname_9103"
+                },
+                {
+                    "displayName": "Baroud d'honneur",
+                    "id": 8299,
+                    "rawDescription": "perk_tooltip_8234",
+                    "rawDisplayName": "perk_displayname_8234"
+                },
+                {
+                    "displayName": "Conditionnement",
+                    "id": 8429,
+                    "rawDescription": "perk_tooltip_Conditioning",
+                    "rawDisplayName": "perk_displayname_Conditioning"
+                },
+                {
+                    "displayName": "Surcroissance",
+                    "id": 8451,
+                    "rawDescription": "perk_tooltip_Overgrowth",
+                    "rawDisplayName": "perk_displayname_Overgrowth"
+                }
+            ],
+            "keystone": {
+                "displayName": "Jeu de jambes",
+                "id": 8021,
+                "rawDescription": "perk_tooltip_FleetFootwork",
+                "rawDisplayName": "perk_displayname_FleetFootwork"
+            },
+            "primaryRuneTree": {
+                "displayName": "Précision",
+                "id": 8000,
+                "rawDescription": "perkstyle_tooltip_7201",
+                "rawDisplayName": "perkstyle_displayname_7201"
+            },
+            "secondaryRuneTree": {
+                "displayName": "Volonté",
+                "id": 8400,
+                "rawDescription": "perkstyle_tooltip_7204",
+                "rawDisplayName": "perkstyle_displayname_7204"
+            },
+            "statRunes": [
+                {
+                    "id": 5008,
+                    "rawDescription": "perk_tooltip_StatModAdaptive"
+                },
+                {
+                    "id": 5008,
+                    "rawDescription": "perk_tooltip_StatModAdaptive"
+                },
+                {
+                    "id": 5003,
+                    "rawDescription": "perk_tooltip_StatModMagicResist"
+                }
+            ]
+        },
+        "level": 7,
+        "summonerName": "Deferlis",
+        "teamRelativeColors": false
+    },
+    "allPlayers": [
+        {
+            "championName": "Yone",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": true,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Potion rechargeable",
+                    "itemID": 2031,
+                    "price": 150,
+                    "rawDescription": "GeneratedTip_Item_2031_Description",
+                    "rawDisplayName": "Item_2031_Name",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Arc-bouclier immortel",
+                    "itemID": 6673,
+                    "price": 600,
+                    "rawDescription": "GeneratedTip_Item_6673_Description",
+                    "rawDisplayName": "Item_6673_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Marteau du gardien",
+                    "itemID": 3184,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_3184_Description",
+                    "rawDisplayName": "game_item_displayname_3184",
+                    "slot": 2
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 2,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 7,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Yone",
+            "rawSkinName": "game_character_skin_displayname_Yone_19",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Tempo mortel",
+                    "id": 8008,
+                    "rawDescription": "perk_tooltip_LethalTempo",
+                    "rawDisplayName": "perk_displayname_LethalTempo"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Précision",
+                    "id": 8000,
+                    "rawDescription": "perkstyle_tooltip_7201",
+                    "rawDisplayName": "perkstyle_displayname_7201"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Volonté",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                }
+            },
+            "scores": {
+                "assists": 5,
+                "creepScore": 20,
+                "deaths": 1,
+                "kills": 9,
+                "wardScore": 0.0
+            },
+            "skinID": 19,
+            "skinName": "Yone héraut de l'aube",
+            "summonerName": "zta",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Marquage",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+                }
+            },
+            "team": "ORDER"
+        },
+        {
+            "championName": "Graves",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Dague dentelée",
+                    "itemID": 3134,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3134_Description",
+                    "rawDisplayName": "Item_3134_Name",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Coques en acier",
+                    "itemID": 3047,
+                    "price": 500,
+                    "rawDescription": "GeneratedTip_Item_3047_Description",
+                    "rawDisplayName": "Item_3047_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Épée longue",
+                    "itemID": 1036,
+                    "price": 350,
+                    "rawDescription": "GeneratedTip_Item_1036_Description",
+                    "rawDisplayName": "Item_1036_Name",
+                    "slot": 2
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 2,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 7,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Graves",
+            "rawSkinName": "game_character_skin_displayname_Graves_6",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Jeu de jambes",
+                    "id": 8021,
+                    "rawDescription": "perk_tooltip_FleetFootwork",
+                    "rawDisplayName": "perk_displayname_FleetFootwork"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Précision",
+                    "id": 8000,
+                    "rawDescription": "perkstyle_tooltip_7201",
+                    "rawDisplayName": "perkstyle_displayname_7201"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Volonté",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                }
+            },
+            "scores": {
+                "assists": 11,
+                "creepScore": 10,
+                "deaths": 2,
+                "kills": 1,
+                "wardScore": 0.0
+            },
+            "skinID": 6,
+            "skinName": "Graves coupe-jarret",
+            "summonerName": "Deferlis",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Marquage",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                }
+            },
+            "team": "ORDER"
+        },
+        {
+            "championName": "Cho'Gath",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Corne du gardien",
+                    "itemID": 2051,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_2051_Description",
+                    "rawDisplayName": "game_item_displayname_2051",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Larme de la déesse",
+                    "itemID": 3070,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3070_Description",
+                    "rawDisplayName": "Item_3070_Name",
+                    "slot": 2
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 2,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 8,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Chogath",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Poigne de l'immortel",
+                    "id": 8437,
+                    "rawDescription": "perk_tooltip_GraspOfTheUndying",
+                    "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Volonté",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Précision",
+                    "id": 8000,
+                    "rawDescription": "perkstyle_tooltip_7201",
+                    "rawDisplayName": "perkstyle_displayname_7201"
+                }
+            },
+            "scores": {
+                "assists": 13,
+                "creepScore": 0,
+                "deaths": 0,
+                "kills": 1,
+                "wardScore": 0.0
+            },
+            "skinID": 0,
+            "summonerName": "DELETE WOMEN",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Marquage",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                }
+            },
+            "team": "ORDER"
+        },
+        {
+            "championName": "Renata Glasc",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Corne du gardien",
+                    "itemID": 2051,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_2051_Description",
+                    "rawDisplayName": "game_item_displayname_2051",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Chronomètre brisé",
+                    "itemID": 2424,
+                    "price": 650,
+                    "rawDescription": "GeneratedTip_Item_2421_Description",
+                    "rawDisplayName": "Item_2421_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Larme de la déesse",
+                    "itemID": 3070,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3070_Description",
+                    "rawDisplayName": "Item_3070_Name",
+                    "slot": 2
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 2,
+                    "displayName": "Biscuit de longévité",
+                    "itemID": 2010,
+                    "price": 50,
+                    "rawDescription": "GeneratedTip_Item_2010_Description",
+                    "rawDisplayName": "Item_2010_Name",
+                    "slot": 3
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 2,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 8,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Renata",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Optimisation glaciale",
+                    "id": 8351,
+                    "rawDescription": "perk_tooltip_GlacialAugment",
+                    "rawDisplayName": "perk_displayname_GlacialAugment"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Inspiration",
+                    "id": 8300,
+                    "rawDescription": "perkstyle_tooltip_7203",
+                    "rawDisplayName": "perkstyle_displayname_7203"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Sorcellerie",
+                    "id": 8200,
+                    "rawDescription": "perkstyle_tooltip_7202",
+                    "rawDisplayName": "perkstyle_displayname_7202"
+                }
+            },
+            "scores": {
+                "assists": 14,
+                "creepScore": 0,
+                "deaths": 0,
+                "kills": 1,
+                "wardScore": 0.0
+            },
+            "skinID": 0,
+            "summonerName": "Petit Nato",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Marquage",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                }
+            },
+            "team": "ORDER"
+        },
+        {
+            "championName": "Nidalee",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Orbe du gardien",
+                    "itemID": 3112,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_3112_Description",
+                    "rawDisplayName": "game_item_displayname_3112",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Larme de la déesse",
+                    "itemID": 3070,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3070_Description",
+                    "rawDisplayName": "Item_3070_Name",
+                    "slot": 2
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 1,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 8,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Nidalee",
+            "rawSkinName": "game_character_skin_displayname_Nidalee_6",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Comète arcanique",
+                    "id": 8229,
+                    "rawDescription": "perk_tooltip_ArcaneComet",
+                    "rawDisplayName": "perk_displayname_ArcaneComet"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Sorcellerie",
+                    "id": 8200,
+                    "rawDescription": "perkstyle_tooltip_7202",
+                    "rawDisplayName": "perkstyle_displayname_7202"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Domination",
+                    "id": 8100,
+                    "rawDescription": "perkstyle_tooltip_7200",
+                    "rawDisplayName": "perkstyle_displayname_7200"
+                }
+            },
+            "scores": {
+                "assists": 11,
+                "creepScore": 10,
+                "deaths": 0,
+                "kills": 3,
+                "wardScore": 0.0
+            },
+            "skinID": 6,
+            "skinName": "Nidalee chasseuse de têtes",
+            "summonerName": "DarckTails",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Clarté",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+                }
+            },
+            "team": "ORDER"
+        },
+        {
+            "championName": "Xayah",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Marteau du gardien",
+                    "itemID": 3184,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_3184_Description",
+                    "rawDisplayName": "game_item_displayname_3184",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Larme de la déesse",
+                    "itemID": 3070,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3070_Description",
+                    "rawDisplayName": "Item_3070_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Jambières du berzerker",
+                    "itemID": 3006,
+                    "price": 500,
+                    "rawDescription": "GeneratedTip_Item_3006_Description",
+                    "rawDisplayName": "Item_3006_Name",
+                    "slot": 2
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Épée longue",
+                    "itemID": 1036,
+                    "price": 350,
+                    "rawDescription": "GeneratedTip_Item_1036_Description",
+                    "rawDisplayName": "Item_1036_Name",
+                    "slot": 3
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 1,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 6,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Xayah",
+            "rawSkinName": "game_character_skin_displayname_Xayah_1",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Tempo mortel",
+                    "id": 8008,
+                    "rawDescription": "perk_tooltip_LethalTempo",
+                    "rawDisplayName": "perk_displayname_LethalTempo"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Précision",
+                    "id": 8000,
+                    "rawDescription": "perkstyle_tooltip_7201",
+                    "rawDisplayName": "perkstyle_displayname_7201"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Sorcellerie",
+                    "id": 8200,
+                    "rawDescription": "perkstyle_tooltip_7202",
+                    "rawDisplayName": "perkstyle_displayname_7202"
+                }
+            },
+            "scores": {
+                "assists": 1,
+                "creepScore": 10,
+                "deaths": 3,
+                "kills": 0,
+                "wardScore": 0.0
+            },
+            "skinID": 1,
+            "skinName": "Xayah du crépuscule cosmique",
+            "summonerName": "im back bby",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Purge",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerBoost_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBoost_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                }
+            },
+            "team": "CHAOS"
+        },
+        {
+            "championName": "Darius",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": true,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Fouet des Pics-de-fer",
+                    "itemID": 6029,
+                    "price": 225,
+                    "rawDescription": "GeneratedTip_Item_6029_Description",
+                    "rawDisplayName": "Item_6029_Name",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Bottes",
+                    "itemID": 1001,
+                    "price": 300,
+                    "rawDescription": "GeneratedTip_Item_1001_Description",
+                    "rawDisplayName": "Item_1001_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Épée longue",
+                    "itemID": 1036,
+                    "price": 350,
+                    "rawDescription": "GeneratedTip_Item_1036_Description",
+                    "rawDisplayName": "Item_1036_Name",
+                    "slot": 2
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 1,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 6,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Darius",
+            "rawSkinName": "game_character_skin_displayname_Darius_15",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Conquérant",
+                    "id": 8010,
+                    "rawDescription": "perk_tooltip_Conqueror",
+                    "rawDisplayName": "perk_displayname_Conqueror"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Précision",
+                    "id": 8000,
+                    "rawDescription": "perkstyle_tooltip_7201",
+                    "rawDisplayName": "perkstyle_displayname_7201"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Volonté",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                }
+            },
+            "scores": {
+                "assists": 0,
+                "creepScore": 0,
+                "deaths": 4,
+                "kills": 0,
+                "wardScore": 0.0
+            },
+            "skinID": 15,
+            "skinName": "Dieu-roi Darius",
+            "summonerName": "Viktor OnlyFans",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Marquage",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+                }
+            },
+            "team": "CHAOS"
+        },
+        {
+            "championName": "Trundle",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Corne du gardien",
+                    "itemID": 2051,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_2051_Description",
+                    "rawDisplayName": "game_item_displayname_2051",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Larme de la déesse",
+                    "itemID": 3070,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3070_Description",
+                    "rawDisplayName": "Item_3070_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 1,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 7,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Trundle",
+            "rawSkinName": "game_character_skin_displayname_Trundle_10",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Optimisation glaciale",
+                    "id": 8351,
+                    "rawDescription": "perk_tooltip_GlacialAugment",
+                    "rawDisplayName": "perk_displayname_GlacialAugment"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Inspiration",
+                    "id": 8300,
+                    "rawDescription": "perkstyle_tooltip_7203",
+                    "rawDisplayName": "perkstyle_displayname_7203"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Volonté",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                }
+            },
+            "scores": {
+                "assists": 1,
+                "creepScore": 0,
+                "deaths": 1,
+                "kills": 0,
+                "wardScore": 0.0
+            },
+            "skinID": 10,
+            "skinName": "Trundle tueur de dragons",
+            "summonerName": "Azahar",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Fatigue",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerExhaust_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerExhaust_DisplayName"
+                }
+            },
+            "team": "CHAOS"
+        },
+        {
+            "championName": "Viego",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Sandales de Mercure",
+                    "itemID": 3111,
+                    "price": 350,
+                    "rawDescription": "GeneratedTip_Item_3111_Description",
+                    "rawDisplayName": "Item_3111_Name",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Épée longue",
+                    "itemID": 1036,
+                    "price": 350,
+                    "rawDescription": "GeneratedTip_Item_1036_Description",
+                    "rawDisplayName": "Item_1036_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Marteau du gardien",
+                    "itemID": 3184,
+                    "price": 950,
+                    "rawDescription": "GeneratedTip_Item_3184_Description",
+                    "rawDisplayName": "game_item_displayname_3184",
+                    "slot": 2
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Gemme exaltante",
+                    "itemID": 3067,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3067_Description",
+                    "rawDisplayName": "Item_3067_Name",
+                    "slot": 3
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Épée longue",
+                    "itemID": 1036,
+                    "price": 350,
+                    "rawDescription": "GeneratedTip_Item_1036_Description",
+                    "rawDisplayName": "Item_1036_Name",
+                    "slot": 4
+                },
+                {
+                    "canUse": true,
+                    "consumable": true,
+                    "count": 1,
+                    "displayName": "Poro-Snax",
+                    "itemID": 2052,
+                    "price": 0,
+                    "rawDescription": "GeneratedTip_Item_2052_Description",
+                    "rawDisplayName": "Item_2052_Name",
+                    "slot": 6
+                }
+            ],
+            "level": 7,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Viego",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Conquérant",
+                    "id": 8010,
+                    "rawDescription": "perk_tooltip_Conqueror",
+                    "rawDisplayName": "perk_displayname_Conqueror"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Précision",
+                    "id": 8000,
+                    "rawDescription": "perkstyle_tooltip_7201",
+                    "rawDisplayName": "perkstyle_displayname_7201"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Volonté",
+                    "id": 8400,
+                    "rawDescription": "perkstyle_tooltip_7204",
+                    "rawDisplayName": "perkstyle_displayname_7204"
+                }
+            },
+            "scores": {
+                "assists": 1,
+                "creepScore": 0,
+                "deaths": 3,
+                "kills": 2,
+                "wardScore": 0.0
+            },
+            "skinID": 0,
+            "summonerName": "Threta Gunberg",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Fantôme",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                }
+            },
+            "team": "CHAOS"
+        },
+        {
+            "championName": "Elise",
+            "isBot": false,
+            "isDead": false,
+            "items": [
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Alternateur Hextech",
+                    "itemID": 3145,
+                    "price": 215,
+                    "rawDescription": "GeneratedTip_Item_3145_Description",
+                    "rawDisplayName": "Item_3145_Name",
+                    "slot": 0
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Tome d'amplification",
+                    "itemID": 1052,
+                    "price": 435,
+                    "rawDescription": "GeneratedTip_Item_1052_Description",
+                    "rawDisplayName": "Item_1052_Name",
+                    "slot": 1
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Larme de la déesse",
+                    "itemID": 3070,
+                    "price": 400,
+                    "rawDescription": "GeneratedTip_Item_3070_Description",
+                    "rawDisplayName": "Item_3070_Name",
+                    "slot": 4
+                },
+                {
+                    "canUse": false,
+                    "consumable": false,
+                    "count": 1,
+                    "displayName": "Chaussures de sorcier",
+                    "itemID": 3020,
+                    "price": 800,
+                    "rawDescription": "GeneratedTip_Item_3020_Description",
+                    "rawDisplayName": "Item_3020_Name",
+                    "slot": 5
+                }
+            ],
+            "level": 7,
+            "position": "NONE",
+            "rawChampionName": "game_character_displayname_Elise",
+            "rawSkinName": "game_character_skin_displayname_Elise_2",
+            "respawnTimer": 0.0,
+            "runes": {
+                "keystone": {
+                    "displayName": "Électrocution",
+                    "id": 8112,
+                    "rawDescription": "perk_tooltip_Electrocute",
+                    "rawDisplayName": "perk_displayname_Electrocute"
+                },
+                "primaryRuneTree": {
+                    "displayName": "Domination",
+                    "id": 8100,
+                    "rawDescription": "perkstyle_tooltip_7200",
+                    "rawDisplayName": "perkstyle_displayname_7200"
+                },
+                "secondaryRuneTree": {
+                    "displayName": "Sorcellerie",
+                    "id": 8200,
+                    "rawDescription": "perkstyle_tooltip_7202",
+                    "rawDisplayName": "perkstyle_displayname_7202"
+                }
+            },
+            "scores": {
+                "assists": 1,
+                "creepScore": 0,
+                "deaths": 4,
+                "kills": 1,
+                "wardScore": 0.0
+            },
+            "skinID": 2,
+            "skinName": "Elise héroïne de guerre",
+            "summonerName": "Nitro Baylife",
+            "summonerSpells": {
+                "summonerSpellOne": {
+                    "displayName": "Saut éclair",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                },
+                "summonerSpellTwo": {
+                    "displayName": "Marquage",
+                    "rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+                    "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+                }
+            },
+            "team": "CHAOS"
+        }
+    ],
+    "events": {
+        "Events": [
+            {
+                "EventID": 0,
+                "EventName": "GameStart",
+                "EventTime": 0.018691599369049073
+            },
+            {
+                "EventID": 1,
+                "EventName": "MinionsSpawning",
+                "EventTime": 45.03252029418945
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 2,
+                "EventName": "ChampionKill",
+                "EventTime": 51.921016693115237,
+                "KillerName": "zta",
+                "VictimName": "Nitro Baylife"
+            },
+            {
+                "EventID": 3,
+                "EventName": "FirstBlood",
+                "EventTime": 51.921016693115237,
+                "Recipient": "zta"
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "DarckTails",
+                    "Petit Nato"
+                ],
+                "EventID": 4,
+                "EventName": "ChampionKill",
+                "EventTime": 52.55384826660156,
+                "KillerName": "zta",
+                "VictimName": "Threta Gunberg"
+            },
+            {
+                "EventID": 5,
+                "EventName": "Multikill",
+                "EventTime": 52.55384826660156,
+                "KillStreak": 2,
+                "KillerName": "zta"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis",
+                    "Petit Nato"
+                ],
+                "EventID": 6,
+                "EventName": "ChampionKill",
+                "EventTime": 54.46083068847656,
+                "KillerName": "DELETE WOMEN",
+                "VictimName": "im back bby"
+            },
+            {
+                "Assisters": [
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 7,
+                "EventName": "ChampionKill",
+                "EventTime": 56.628910064697269,
+                "KillerName": "zta",
+                "VictimName": "Viktor OnlyFans"
+            },
+            {
+                "EventID": 8,
+                "EventName": "Multikill",
+                "EventTime": 56.628910064697269,
+                "KillStreak": 3,
+                "KillerName": "zta"
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 9,
+                "EventName": "ChampionKill",
+                "EventTime": 71.70075988769531,
+                "KillerName": "zta",
+                "VictimName": "Azahar"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 10,
+                "EventName": "ChampionKill",
+                "EventTime": 79.29092407226563,
+                "KillerName": "DarckTails",
+                "VictimName": "im back bby"
+            },
+            {
+                "Assisters": [
+                    "Threta Gunberg"
+                ],
+                "EventID": 11,
+                "EventName": "ChampionKill",
+                "EventTime": 80.4949722290039,
+                "KillerName": "Nitro Baylife",
+                "VictimName": "Deferlis"
+            },
+            {
+                "Assisters": [
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 12,
+                "EventName": "ChampionKill",
+                "EventTime": 87.70447540283203,
+                "KillerName": "zta",
+                "VictimName": "Viktor OnlyFans"
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 13,
+                "EventName": "ChampionKill",
+                "EventTime": 93.51183319091797,
+                "KillerName": "zta",
+                "VictimName": "Threta Gunberg"
+            },
+            {
+                "EventID": 14,
+                "EventName": "Multikill",
+                "EventTime": 93.51183319091797,
+                "KillStreak": 2,
+                "KillerName": "zta"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis",
+                    "DarckTails",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 15,
+                "EventName": "ChampionKill",
+                "EventTime": 93.5826644897461,
+                "KillerName": "Petit Nato",
+                "VictimName": "Nitro Baylife"
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 16,
+                "EventName": "ChampionKill",
+                "EventTime": 126.35779571533203,
+                "KillerName": "zta",
+                "VictimName": "Viktor OnlyFans"
+            },
+            {
+                "Assisters": [],
+                "EventID": 17,
+                "EventName": "ChampionKill",
+                "EventTime": 174.9918670654297,
+                "KillerName": "Threta Gunberg",
+                "VictimName": "Deferlis"
+            },
+            {
+                "Assisters": [
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 18,
+                "EventName": "ChampionKill",
+                "EventTime": 220.95343017578126,
+                "KillerName": "zta",
+                "VictimName": "Nitro Baylife"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 19,
+                "EventName": "ChampionKill",
+                "EventTime": 222.36903381347657,
+                "KillerName": "Deferlis",
+                "VictimName": "im back bby"
+            },
+            {
+                "Assisters": [
+                    "Nitro Baylife",
+                    "Azahar",
+                    "im back bby"
+                ],
+                "EventID": 20,
+                "EventName": "ChampionKill",
+                "EventTime": 225.8725128173828,
+                "KillerName": "Threta Gunberg",
+                "VictimName": "zta"
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 21,
+                "EventName": "ChampionKill",
+                "EventTime": 254.2675018310547,
+                "KillerName": "DarckTails",
+                "VictimName": "Threta Gunberg"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis"
+                ],
+                "EventID": 22,
+                "EventName": "TurretKilled",
+                "EventTime": 281.7425842285156,
+                "KillerName": "Minion_T100L1S09N0055",
+                "TurretKilled": "Turret_T2_L_01_A"
+            },
+            {
+                "EventID": 23,
+                "EventName": "FirstBrick",
+                "EventTime": 281.7425842285156,
+                "KillerName": "Minion_T100L1S09N0055"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 24,
+                "EventName": "ChampionKill",
+                "EventTime": 285.0155334472656,
+                "KillerName": "DarckTails",
+                "VictimName": "Nitro Baylife"
+            },
+            {
+                "Assisters": [
+                    "Deferlis",
+                    "DarckTails",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 25,
+                "EventName": "ChampionKill",
+                "EventTime": 288.4875183105469,
+                "KillerName": "zta",
+                "VictimName": "Viktor OnlyFans"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis",
+                    "Petit Nato",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 26,
+                "EventName": "TurretKilled",
+                "EventTime": 305.251220703125,
+                "KillerName": "DarckTails",
+                "TurretKilled": "Turret_T2_L_02_A"
+            },
+            {
+                "Assisters": [
+                    "zta",
+                    "Deferlis",
+                    "DarckTails",
+                    "DELETE WOMEN"
+                ],
+                "EventID": 27,
+                "EventName": "InhibKilled",
+                "EventTime": 321.9900817871094,
+                "InhibKilled": "Barracks_T2_C1",
+                "KillerName": "Minion_T100L1S10N0061"
+            }
+        ]
+    },
+    "gameData": {
+        "gameMode": "ARAM",
+        "gameTime": 329.61199951171877,
+        "mapName": "Map12",
+        "mapNumber": 12,
+        "mapTerrain": "Default"
+    }
+}
