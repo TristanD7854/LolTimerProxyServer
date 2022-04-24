@@ -30,6 +30,7 @@ app.use(cors({origin: 'http://localhost:4200'}));
 
 app.use('/summoner', require('./src/routes/summoner'));
 app.use('/spectator', require('./src/routes/spectator'));
+app.use('/league', require('./src/routes/league'));
 
 // npm run dev will print that
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

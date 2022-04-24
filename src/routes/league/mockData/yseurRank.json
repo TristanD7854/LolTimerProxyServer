@@ -1,0 +1,32 @@
+[
+    {
+        "leagueId": "a04b09a4-efbd-4e30-b585-922d7d529b4d",
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "DIAMOND",
+        "rank": "IV",
+        "summonerId": "wlo92-p2yGzLEySCfjtHD9tZUFEJUmDeMCigWa57WMY2WKI",
+        "summonerName": "Yseur",
+        "leaguePoints": 41,
+        "wins": 121,
+        "losses": 112,
+        "veteran": false,
+        "inactive": false,
+        "freshBlood": false,
+        "hotStreak": false
+    },
+    {
+        "leagueId": "aea2b93e-5aad-49d6-8f1f-4b888924a6b3",
+        "queueType": "RANKED_FLEX_SR",
+        "tier": "SILVER",
+        "rank": "I",
+        "summonerId": "wlo92-p2yGzLEySCfjtHD9tZUFEJUmDeMCigWa57WMY2WKI",
+        "summonerName": "Yseur",
+        "leaguePoints": 16,
+        "wins": 13,
+        "losses": 10,
+        "veteran": false,
+        "inactive": false,
+        "freshBlood": false,
+        "hotStreak": false
+    }
+]
