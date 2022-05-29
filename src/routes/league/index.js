@@ -43,14 +43,13 @@ router.get('/', async (req, res) => {
       console.log(`REQUEST: ${apiUrl}`);
     }
 
-    if (data.status.status_code == 403)
+    if (data?.status?.status_code && data?.status?.status_code != 200)
     {
-      res.status(403).json(data);
+      res.status(data.status.status_code).json(data);
     }
     else {
       res.status(200).json(data);
     }
-    
   } catch (error) {
     res.status(500).json({ error });
   }
